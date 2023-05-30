@@ -1,0 +1,17 @@
+/home/lauruslinux/catkin_ws/install/_setup_util.py
+/home/lauruslinux/catkin_ws/install/env.sh
+/home/lauruslinux/catkin_ws/install/setup.bash
+/home/lauruslinux/catkin_ws/install/local_setup.bash
+/home/lauruslinux/catkin_ws/install/setup.sh
+/home/lauruslinux/catkin_ws/install/local_setup.sh
+/home/lauruslinux/catkin_ws/install/setup.zsh
+/home/lauruslinux/catkin_ws/install/local_setup.zsh
+/home/lauruslinux/catkin_ws/install/.rosinstall
+/home/lauruslinux/catkin_ws/install/lib/pkgconfig/beginner_tutorials.pc
+/home/lauruslinux/catkin_ws/install/share/beginner_tutorials/cmake/beginner_tutorialsConfig.cmake
+/home/lauruslinux/catkin_ws/install/share/beginner_tutorials/cmake/beginner_tutorialsConfig-version.cmake
+/home/lauruslinux/catkin_ws/install/share/beginner_tutorials/package.xml
+/home/lauruslinux/catkin_ws/install/lib/pkgconfig/wander.pc
+/home/lauruslinux/catkin_ws/install/share/wander/cmake/wanderConfig.cmake
+/home/lauruslinux/catkin_ws/install/share/wander/cmake/wanderConfig-version.cmake
+/home/lauruslinux/catkin_ws/install/share/wander/package.xml

@@ -1,0 +1,8 @@
+prefix=/home/lauruslinux/catkin_ws/devel
+
+Name: depthtolaser
+Description: Description of depthtolaser
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
